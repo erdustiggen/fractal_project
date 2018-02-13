@@ -10,7 +10,6 @@
 
 #include<cstdint>
 
-using namespace std;
 
 // Makes c++ align the struct on two byte boundaries
 #pragma pack(2)
